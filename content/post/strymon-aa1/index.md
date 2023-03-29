@@ -1,4 +1,4 @@
-SOIC TL---
+---
 title: "Strymon Aa.1: repair. First Post!"
 date: 2023-03-29T11:01:49+03:00
 draft: false
@@ -15,7 +15,8 @@ Was a simple task, using braid and solder sucker. Butm, when turned on, i nmotic
 
 ### Broken top part
 
-Analyzed with DMM - see no action on ouputs at all. Next one was an op-amp, simple TL072. And yes, seems that is exactly the problem here - P-N juctions are shorted, according to diode mode on my DMM. Desoldering it and replacing with general style SOIC TL072.
+Analyzed with DMM - see no action on ouputs at all. Next one was an op-amp, simple TL072. And yes, seems that is exactly the problem here - P-N juctions are shorted, according to diode mode on my DMM. Desoldering it and replacing with general style SOIC TL072. 
+I used general IC check technique - check diode junctions, like [here](https://www.youtube.com/watch?v=cGRPBV-_ZQc)
 Working perfectly!
 
 ![PCB](aa1-2.jpeg)
