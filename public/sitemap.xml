@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mikhailspirin.github.io/synths-of-life-blog/post/aisynthesisquadvca/</loc>
+    <lastmod>2023-04-15T23:01:45+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://mikhailspirin.github.io/synths-of-life-blog/post/</loc>
+    <lastmod>2023-04-15T23:01:45+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mikhailspirin.github.io/synths-of-life-blog/</loc>
+    <lastmod>2023-04-15T23:01:45+03:00</lastmod>
+  </url><url>
+    <loc>https://mikhailspirin.github.io/synths-of-life-blog/post/alesismicroverb2/</loc>
+    <lastmod>2023-04-01T11:01:49+03:00</lastmod>
+  </url><url>
+    <loc>https://mikhailspirin.github.io/synths-of-life-blog/post/strymon-aa1/</loc>
+    <lastmod>2023-03-29T11:01:49+03:00</lastmod>
+  </url><url>
+    <loc>https://mikhailspirin.github.io/synths-of-life-blog/categories/</loc>
+  </url><url>
+    <loc>https://mikhailspirin.github.io/synths-of-life-blog/tags/</loc>
   </url>
 </urlset>
