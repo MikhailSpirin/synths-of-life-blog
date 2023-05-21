@@ -22,3 +22,5 @@ Also replaced potentiometers. Due to different shaft, i had to change original p
 ### It works
 No issues, works like a charm. Sound is a bit weired, because its probably one of the first-generation digital delays - it is so much stuff on board! Several opamps, logic, DSP, EEPROM - a lot of things.
 Anyway, cool unit and interesting sound.
+
+
