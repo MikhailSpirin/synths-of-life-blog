@@ -6,7 +6,27 @@
     <description>Recent content in Posts on Synths Of Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 23:01:45 +0300</lastBuildDate><atom:link href="https://mikhailspirin.github.io/synths-of-life-blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 15:29:46 +0300</lastBuildDate><atom:link href="https://mikhailspirin.github.io/synths-of-life-blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samplingmodulator</title>
+      <link>https://mikhailspirin.github.io/synths-of-life-blog/post/samplingmodulator/</link>
+      <pubDate>Mon, 08 May 2023 15:29:46 +0300</pubDate>
+      
+      <guid>https://mikhailspirin.github.io/synths-of-life-blog/post/samplingmodulator/</guid>
+      <description>Befaco Sampling Modulator Oh how much months i spent on tracing and checking of this module.. Almost everything worked fine except for little problem with external clock mode - it didn&amp;rsquo;t worked.
+Resoldered tiny smd transistor pair under opamp bed with new one. Then, found out that it&amp;rsquo;s legs doesnt ring as they shoud; as schematic shows me. I even added small wire and.. Checked one more time and understood that i misread ic number, so i tried to solve non-existing problem.</description>
+    </item>
+    
+    <item>
+      <title>Tascam DP-003SD</title>
+      <link>https://mikhailspirin.github.io/synths-of-life-blog/post/tascamdp003sd/</link>
+      <pubDate>Mon, 08 May 2023 15:29:29 +0300</pubDate>
+      
+      <guid>https://mikhailspirin.github.io/synths-of-life-blog/post/tascamdp003sd/</guid>
+      <description>Pre That is probably the most complicated and big item which i repaired in whole electronics career. And im really-really happy with the result!
+Internally it consists of 3 different boards - digital part, analog interfaces to outside world and &amp;ldquo;controls&amp;rdquo; board - sliding and rotarry pots, displa etc. It&amp;rsquo;s packed firmly inside, so i had hard time disassembling and assembling it back - lots of effort and only photos of the whole process helped me to put it altogether while assembling.</description>
+    </item>
+    
     <item>
       <title>AI Synthesis Quad VCA Mixer</title>
       <link>https://mikhailspirin.github.io/synths-of-life-blog/post/aisynthesisquadvca/</link>
