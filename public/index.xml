@@ -18,6 +18,17 @@ Resoldered tiny smd transistor pair under opamp bed with new one. Then, found ou
     </item>
     
     <item>
+      <title>Tides2018</title>
+      <link>https://mikhailspirin.github.io/synths-of-life-blog/post/tides2018/</link>
+      <pubDate>Mon, 08 May 2023 15:29:38 +0300</pubDate>
+      
+      <guid>https://mikhailspirin.github.io/synths-of-life-blog/post/tides2018/</guid>
+      <description>Jakplugg uTides2018 Two issues here: first, module was not burned, so i spent some time digging into MI dev environment setting up and firmware uploading process; went well of course.
+Another small issue which i traced using schematic (thanks to ancient gods people adding schematic to those smd pcb reworks): one trace was cut just in the middle of its path. Weird, but this is probably quality of pcb.
+Anyway - added piece of wire to solve this issue and all works amazingly well.</description>
+    </item>
+    
+    <item>
       <title>Tascam DP-003SD</title>
       <link>https://mikhailspirin.github.io/synths-of-life-blog/post/tascamdp003sd/</link>
       <pubDate>Mon, 08 May 2023 15:29:29 +0300</pubDate>
